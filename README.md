@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Pavan 👋
 
-<!--
-**Pavan-747-tech/Pavan-747-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **IT Administrator** | 📊 **Data Analyst** | 🔧 **Tech Creator**
 
-Here are some ideas to get you started:
+I'm passionate about managing systems, solving IT issues, and building data-driven solutions. With experience in system administration, Excel automation, data visualisation, Excel Dashboards and an Tech Creator , I bridge the gap between infrastructure and insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Skills
+- **System Admin**: OS Installation,User Id Creation, Windows Server, Networking, Active Directory
+- **Data Tools**: Excel, Power Query, PivotTables, Power BI
+- **Scripting**: Bash, PowerShell (basic)
+- **Others**: SQL, Git, GitHub, VBA (Excel)
+
+## 📁 Featured Projects
+- 🔐 **IT Asset Management System** (MS Access-based)
+- 📊 **Excel Dashboard for Sales Insights**
+- 📁 **PowerShell Scripts for Automated Backups**
+- 🖥️ **Network Uptime Monitor using Python + Excel**
+
+## 📫 How to reach me
+- LinkedIn: [linkedin.com/in/pavan-gv]
+- Email: [pavangv6020@gmail.com] 
