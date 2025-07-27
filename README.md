@@ -17,5 +17,5 @@ I'm passionate about managing systems, solving IT issues, and building data-driv
 - 🖥️ **Network Uptime Monitor using Python + Excel**
 
 ## 📫 How to reach me
-- LinkedIn: [linkedin.com/in/pavan-gv]
+- LinkedIn: [linkedin.com/in/Pavan-Gv] 
 - Email: [pavangv6020@gmail.com] 
