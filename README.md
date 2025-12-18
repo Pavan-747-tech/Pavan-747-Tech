@@ -10,12 +10,12 @@ I enjoy solving real-world IT issues, automating routine tasks, and continuously
 
 🖥️ Windows & Server Administration
 
-⦁	Windows Server basics (AD, GPO, DNS, DHCP)
-⦁	Active Directory: User, Group & Access Management
-⦁	Shared Folder & Work Folder Permissions
-⦁	Server Monitoring & Event Log Analysis
-⦁	Backup, Restore & Patch Management
-⦁	Remote Server Access (RDP)
+Windows Server basics (AD, GPO, DNS, DHCP)
+Active Directory: User, Group & Access Management
+Shared Folder & Work Folder Permissions
+Server Monitoring & Event Log Analysis
+Backup, Restore & Patch Management
+Remote Server Access (RDP)
 
 🌐 Networking & Security
 
